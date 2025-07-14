@@ -7,3 +7,6 @@
 
 3. My Food Ordering System Project, here's the link: 
 https://onlinegdb.com/cdeo1GG3h
+
+4) C++ Pair Assignment
+   [PAIR ASSIGNMENT - IMS450.pdf](https://github.com/user-attachments/files/21209455/PAIR.ASSIGNMENT.-.IMS450.pdf)
