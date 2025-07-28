@@ -23,6 +23,7 @@ my certificate [Coursera 3UVBIIX8UBLY.pdf](https://github.com/user-attachments/f
 
 
 2) Data Visualization 
+
 Gained foundational understanding of data visualization by exploring the benefits and real-world applications of visual data representation. Reviewed various chart types and formats, and developed hands-on experience by aggregating data and creating simple visualizations using Google Sheets.
 my certificate : 
 [Coursera 05020NF672VV.pdf](https://github.com/user-attachments/files/21461165/Coursera.05020NF672VV.pdf)
