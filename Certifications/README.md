@@ -3,12 +3,20 @@ here's my work : [Python 101 - Python Libraries for Data Analysis - Numpy and Pa
 
 skill i've  learned: 
 Data Science
+
 Python Programming
+
 Pandas (Python Package)
+
 Data Manipulation
+
 NumPy
+
 Computer Programming
+
 Data Structures
+
 Data Analysis
+
 
 my certificate [Coursera 3UVBIIX8UBLY.pdf](https://github.com/user-attachments/files/21461082/Coursera.3UVBIIX8UBLY.pdf)
